@@ -1,6 +1,6 @@
 package com.lambdaschool;
 
 public interface Money {
-    public double getTotal();
+    double getTotal();
     public String toString();
 }
