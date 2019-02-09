@@ -20,6 +20,6 @@ public class Nickle extends Coin{
 
     @Override
     public String toString() {
-        return (count + "Nickle");
+        return (count + " Nickle");
     }
 }

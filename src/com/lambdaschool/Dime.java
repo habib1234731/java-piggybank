@@ -20,6 +20,6 @@ public class Dime extends Coin{
 
     @Override
     public String toString() {
-        return (count + "Dime");
+        return (count + " Dime");
     }
 }
